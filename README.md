@@ -1,4 +1,4 @@
-#Spring WebFlux and Elasticsearch - Kotlin
+# Spring WebFlux and Elasticsearch - Kotlin
 
 
 Small seed example project, built upon the spring webflux framework and uses the non-blocking api of elasticearch to create a seamless non-blocking experience. 
